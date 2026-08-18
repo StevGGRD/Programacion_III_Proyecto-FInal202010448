@@ -1,5 +1,5 @@
 // Clase que representa un estudiante
-// Aqui guardamos los datos basicos que pide el sistema
+// Aqui guardamos los datos que pide el sistema
 
 public class Estudiante {
     private int id;

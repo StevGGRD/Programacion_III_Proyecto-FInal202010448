@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 
-// Clase de pruebas basicas del sistema
+// Clase de pruebas del sistema
 // No usa JUnit para mantenerlo simple, solo compara resultados
 // y muestra si cada prueba paso o fallo
 
-public class PruebasBasicas {
+public class Pruebas {
 
     public static void main(String[] args) {
         int pruebasOk = 0;
