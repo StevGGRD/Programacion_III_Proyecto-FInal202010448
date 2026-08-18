@@ -2,15 +2,15 @@
 
 Proyecto Final - Programacion III
 
-Sistema de consola en Java para practicar el CRUD (crear, leer, actualizar y eliminar) usando una lista de estudiantes. Los datos se guardan en un archivo de texto (`estudiantes.txt`) para que no se pierdan al cerrar el programa.
+Sistema de consola en Java para practicar el CRUD con crear, leer, actualizar y eliminar usando una lista de estudiantes. Los datos se guardan en un archivo de texto estudiantes.txt para que no se pierdan al cerrar el programa.
 
-## Como correrlo
+## Para probarlo
 
 1. Entrar a la carpeta `src`
 2. Compilar: `javac Estudiante.java Main.java`
 3. Ejecutar: `java Main`
 
-## Funciones
+## Las funciones que tiene el proyecto
 
 - Registrar estudiante
 - Listar estudiantes
@@ -19,9 +19,9 @@ Sistema de consola en Java para practicar el CRUD (crear, leer, actualizar y eli
 - Eliminar estudiante
 - Guardar y cargar datos desde archivo de texto
 
-## Pruebas
+## Para pruebas
 
-La clase `PruebasBasicas.java` corre unas pruebas sencillas sobre las funciones principales (agregar, buscar, editar y eliminar).
+La clase `PruebasBasicas.java` corre unas pruebas sencillas sobre las funciones principales que son agregar, buscar, editar y eliminar.
 
 Compilar: `javac PruebasBasicas.java`
 Ejecutar: `java PruebasBasicas`
