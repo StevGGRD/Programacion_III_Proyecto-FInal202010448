@@ -81,6 +81,7 @@ public class Main {
 
         System.out.print("Edad: ");
         int edad = leerEntero();
+        sc.nextLine();
 
         System.out.print("Carrera: ");
         String carrera = sc.nextLine();
