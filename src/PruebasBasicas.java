@@ -4,7 +4,7 @@ import java.util.ArrayList;
 // No usa JUnit para mantenerlo simple, solo compara resultados
 // y muestra si cada prueba paso o fallo
 
-public class Pruebas {
+public class PruebasBasicas {
 
     public static void main(String[] args) {
         int pruebasOk = 0;

@@ -21,7 +21,7 @@ Sistema de consola en Java para practicar el CRUD con crear, leer, actualizar y 
 
 ## Para pruebas
 
-La clase `Pruebas.java` corre unas pruebas sencillas sobre las funciones principales que son agregar, buscar, editar y eliminar.
+La clase `PruebasBasicas.java` corre unas pruebas sencillas sobre las funciones principales que son agregar, buscar, editar y eliminar.
 
-Compilar: `javac Pruebas.java`
-Ejecutar: `java Pruebas`
+Compilar: `javac PruebasBasicas.java`
+Ejecutar: `java PruebasBasicas`
